@@ -1,4 +1,4 @@
-# -Simple-Dropbox-Folder-Uploader
+# Simple-Dropbox-Folder-Uploader
 
 # 📁 Simple Dropbox Folder Uploader
 
